@@ -63,7 +63,7 @@ export default function ImageScrollAnimation() {
           transition={{ duration: 2 }}
           className="absolute inset-0 flex items-center justify-center bg-gray-900 text-white text-4xl"
         >
-          Animals
+          Cats
         </motion.div>
       )}
 
